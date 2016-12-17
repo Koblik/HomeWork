@@ -1,8 +1,10 @@
 package com.koblik;
 
+import static java.lang.System.*;
+
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Hi people!!!");
-		System.out.println("My Name Roman");
+		out.println("Hi people!!!");
+		out.println("My Name Roman");
 	}
 }
